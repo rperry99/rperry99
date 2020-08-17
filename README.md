@@ -5,10 +5,10 @@
 
 ## Connect with me
 <p align='center'>
-  <a href="http://twitter.com/russp999">
+  <a href="http://twitter.com/russp999" target="_blank">
     <img src="https://img.shields.io/static/v1?label=Twitter&message=@russp999&color=blue" />
   </a>
-  <a href="https://github.com/rperry99">
+  <a href="https://github.com/rperry99" target="_blank">
     <img src="https://img.shields.io/static/v1?label=GitHub&message=@rperry99&color=24292e" />
   </a>
 </p>
