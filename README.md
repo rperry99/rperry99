@@ -5,11 +5,14 @@
 
 ## Connect with me
 <p align='center'>
-  <a href="http://twitter.com/russp999" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=Twitter&message=@russp999&color=blue" />
+  <a href="http://twitter.com/russp999">
+    <img src="https://img.shields.io/static/v1?label=Twitter&message=russp999&color=blue&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://github.com/rperry99" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=GitHub&message=@rperry99&color=24292e" />
+  <a href="https://github.com/rperry99">
+    <img src="https://img.shields.io/static/v1?label=GitHub&message=rperry99&color=24292e&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/russ-perry-22b638a8/">
+    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Russ%20Perry&color=0072b1&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
