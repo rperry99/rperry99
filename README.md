@@ -5,6 +5,7 @@
 
 ## Check out my stats
 
+<p>Please keep in mind these are just my most used languages within my Repos on GitHub and do not indicate my skill in the language.</p>
 <a href='https://github.com/rperry99'>
   <img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=rperry99&theme=merko&layout=compact&hide=python,powershell'>
 </a>
