@@ -3,6 +3,16 @@
 - 🌱 I’m currently learning some basic JavaScript.
 - ✨ Up next, diving into React.
 
+## Connect with me
+<p align='center'>
+  <a href="http://twitter.com/russp999">
+    <img src="https://img.shields.io/static/v1?label=Twitter&message=@russp999&color=blue" />
+  </a>
+  <a href="https://github.com/rperry99">
+    <img src="https://img.shields.io/static/v1?label=GitHub&message=@rperry99&color=24292e" />
+  </a>
+</p>
+
 ## Check out my stats
 
 <p>Please keep in mind these are just my most used languages within my Repos on GitHub and do not indicate my skill in the language.</p>
