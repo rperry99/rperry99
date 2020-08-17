@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+My name is Russ! I am a front-end developer from Cleveland, Ohio!
+Feel free to contribute to any of my projects! I love the thought of Open Source and I think it is a great way to learn!
+
+## What's Going on?
 - 🔭 I’m currently working going through a course on [ZeroToMastery.io](https://zerotomastery.io).
 - 🌱 I’m currently learning some basic JavaScript.
 - ✨ Up next, diving into React.
