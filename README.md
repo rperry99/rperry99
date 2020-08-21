@@ -16,6 +16,9 @@ Feel free to contribute to any of my projects! I love the thought of Open Source
   <a href="https://www.linkedin.com/in/russ-perry-22b638a8/">
     <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Russ%20Perry&color=0072b1&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://russperry.dev">
+    <img src="https://img.shields.io/static/v1?label=Website&message=russperry.dev&color=306844&style=for-the-badge" />
+  </a>
 </p>
 
 ## Check out my stats
