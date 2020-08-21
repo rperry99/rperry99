@@ -4,7 +4,8 @@ Feel free to contribute to any of my projects! I love the thought of Open Source
 
 ## What's Going on?
 - 🔭 I’m currently working going through a course on [ZeroToMastery.io](https://zerotomastery.io).
-- 🌱 I’m currently learning some basic JavaScript.
+- 🌱 I’m currently reviewing some basic JavaScript.
+- 📖 Currently trying to participate more in open source.
 - ✨ Up next, diving into React.
 
 ## Connect with me
