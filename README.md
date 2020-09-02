@@ -23,6 +23,7 @@ Feel free to contribute to any of my projects! I love the thought of Open Source
 
 ## What I'm listening to
 [![Spotify](https://novatorem-pi-six.vercel.app/api/spotify)](https://open.spotify.com/user/1227273073)
+<!-- If you are interested in adding this to this your profile, check out this repo: https://github.com/novatorem/novatorem -->
 
 ## Check out my stats
 <p>Please keep in mind these are just my most used languages within my Repos on GitHub and do not indicate my skill in the language.</p>
