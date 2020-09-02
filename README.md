@@ -21,6 +21,9 @@ Feel free to contribute to any of my projects! I love the thought of Open Source
   </a>
 </p>
 
+## What I'm listening to
+[![Spotify](https://rperry99.vercel.app/api/spotify)](https://open.spotify.com/user/1227273073)
+
 ## Check out my stats
 <p>Please keep in mind these are just my most used languages within my Repos on GitHub and do not indicate my skill in the language.</p>
 <!-- <p align='center'><img src='https://komarev.com/ghpvc/?username=rperry99' /></p> -->
