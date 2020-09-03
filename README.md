@@ -22,7 +22,11 @@ Feel free to contribute to any of my projects! I love the thought of Open Source
 </p>
 
 ## What I'm listening to
-[![Spotify](https://novatorem-pi-six.vercel.app/api/spotify)](https://open.spotify.com/user/1227273073)
+<p align="center">
+  <a href="https://open.spotify.com/user/1227273073">
+    <img src="https://novatorem-pi-six.vercel.app/api/spotify"/>
+  </a>
+</p>
 <!-- If you are interested in adding this to this your profile, check out this repo: https://github.com/novatorem/novatorem -->
 
 ## Check out my stats
