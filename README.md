@@ -36,7 +36,7 @@ Feel free to contribute to any of my projects! I love the thought of Open Source
   <img align='left' width='45%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=rperry99&theme=merko&layout=compact&hide=python,powershell'>
 </a>
 <a href='https://github.com/rperry99'>
-  <img align='right' width='45%' src='https://github-readme-stats.vercel.app/api?username=rperry99&theme=merko&hide=contribs&show_icons=true'>
+  <img align='right' width='45%' src='https://github-readme-stats.vercel.app/api?username=rperry99&theme=merko&show_icons=true'>
 </a>
 
 <!--
