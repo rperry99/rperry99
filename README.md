@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Russ! I am a front-end developer from Cleveland, Ohio!
-Feel free to contribute to any of my projects! I love the thought of Open Source and I think it is a great way to learn!
+I am currently working on learning and having fun with Web Dev. I also sometimes dabble in Game Dev with Unity. I like to bounce back and forth between the two.
 
 ## What's Going on?
 - 🔭 I’m currently working going through a course on [ZeroToMastery.io](https://zerotomastery.io).
