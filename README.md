@@ -3,10 +3,12 @@ My name is Russ! I am a front-end developer from Cleveland, Ohio!
 I am currently working on learning and having fun with Web Dev. I also sometimes dabble in Game Dev with Unity. I like to bounce back and forth between the two.
 
 ## What's Going on?
-- 🔭 I’m currently working going through a course on [ZeroToMastery.io](https://zerotomastery.io).
-- 🌱 I’m currently reviewing some basic JavaScript.
+- 🔭 I’m currently working going through the [JavaScriptmas Advent Calendar on Scrimba](https://scrimba.com/learn/adventcalendar). My solutions [here](https://github.com/rperry99/Scrimba-javascriptmas-2020)
+- 🌱 Planning out my next project, working on design and layout.
 - 📖 Currently trying to participate more in open source.
-- ✨ Up next, diving into React.
+- ✨ Up next, working on starting to code my next project.
+
+- 🎆 Current Project: Video Game Release Tracker
 
 ## Connect with me
 <p align='center'>
