@@ -3,7 +3,8 @@ My name is Russ! I am a front-end developer from Cleveland, Ohio!
 I am currently working on learning and having fun with Web Dev. I also sometimes dabble in Game Dev with Unity. I like to bounce back and forth between the two.
 
 ## What's Going on?
-- 🔭 I’m currently working going through the [JavaScriptmas Advent Calendar on Scrimba](https://scrimba.com/learn/adventcalendar). My solutions [here](https://github.com/rperry99/Scrimba-javascriptmas-2020) and the [Scrimba Weekly Challenge](https://weeklychallenge.scrimba.com/). My solutions for that [here](https://github.com/rperry99/Scrimba-Weekly-Challenge).
+- 🔭 I’m currently working going through the [JavaScriptmas Advent Calendar on Scrimba](https://scrimba.com/learn/adventcalendar). My solutions [here](https://github.com/rperry99/Scrimba-javascriptmas-2020).
+- 🔭 Also working on the [Scrimba Weekly Challenge](https://weeklychallenge.scrimba.com/). My solutions for that [here](https://github.com/rperry99/Scrimba-Weekly-Challenge).
 - 🌱 Planning out my next project, working on design and layout.
 - 📖 Currently trying to participate more in open source.
 - ✨ Up next, working on starting to code my next project.
