@@ -3,13 +3,12 @@ My name is Russ! I am a front-end developer from Cleveland, Ohio!
 I am currently working on learning and having fun with Web Dev. I also sometimes dabble in Game Dev with Unity. I like to bounce back and forth between the two.
 
 ## What's Going on?
-- 🔭 I’m currently working going through the [JavaScriptmas Advent Calendar on Scrimba](https://scrimba.com/learn/adventcalendar). My solutions [here](https://github.com/rperry99/Scrimba-javascriptmas-2020).
-- 🔭 Also working on the [Scrimba Weekly Challenge](https://weeklychallenge.scrimba.com/). My solutions for that [here](https://github.com/rperry99/Scrimba-Weekly-Challenge).
-- 🌱 Planning out my next project, working on design and layout.
+- 🔭 Diving back into some Game Dev with Unity.
+- 🌱 Working towards building a dice app.
 - 📖 Currently trying to participate more in open source.
-- ✨ Up next, working on starting to code my next project.
+- ✨ Up next, working on other game projects.
 
-- 🎆 Current Project: Video Game Release Tracker
+- 🎆 Current Project: Dice Generator App
 
 ## Connect with me
 <p align='center'>
