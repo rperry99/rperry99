@@ -3,12 +3,11 @@ My name is Russ! I am a front-end developer from Cleveland, Ohio!
 I am currently working on learning and having fun with Web Dev. I also sometimes dabble in Game Dev with Unity. I like to bounce back and forth between the two.
 
 ## What's Going on?
-- 🔭 Diving back into some Game Dev with Unity.
-- 🌱 Working towards building a dice app.
+- 🔭 Currently working on [Frontend Mentor projects](https://www.frontendmentor.io/profile/rperry99).
+- 🌱 Learning about UI/UX fundamentals on Skillshare.
 - 📖 Currently trying to participate more in open source.
-- ✨ Up next, working on other game projects.
 
-- 🎆 Current Project: Dice Generator App
+- 🎆 Current Project: [Sunnyside Agency Landing Page](https://github.com/rperry99/sunnyside-landing-page) challenge from [Frontend Mentors](https://www.frontendmentor.io/)
 
 ## Connect with me
 <p align='center'>
