@@ -5,9 +5,9 @@ I am currently working on learning and having fun with Web Dev. I also sometimes
 ## What's Going on?
 - 🔭 Currently working on [Frontend Mentor projects](https://www.frontendmentor.io/profile/rperry99).
 - 🌱 Learning about UI/UX fundamentals on Skillshare.
-- 📖 Currently trying to participate more in open source.
+- 📖 Exploring photography
 
-- 🎆 Current Project: [Sunnyside Agency Landing Page](https://github.com/rperry99/sunnyside-landing-page) challenge from [Frontend Mentors](https://www.frontendmentor.io/)
+- 🎆 Current Project: TBD
 
 ## Connect with me
 <p align='center'>
