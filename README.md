@@ -11,14 +11,11 @@ I am currently working on learning and having fun with Web Dev. I also sometimes
 
 ## Connect with me
 <p align='center'>
-  <a href="http://twitter.com/russp999">
+  <a href="http://twitter.com/russdevs">
     <img src="https://img.shields.io/static/v1?label=Twitter&message=russp999&color=blue&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/russ-perry-22b638a8/">
     <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Russ%20Perry&color=0072b1&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://russdevs.hashnode.dev/">
-    <img src="https://img.shields.io/static/v1?label=Blog&message=Hashnode&color=306844&style=for-the-badge" />
   </a>
 </p>
 
