@@ -1,13 +1,11 @@
 ## Hi there 👋
-My name is Russ! I am a front-end developer from Cleveland, Ohio!
-I am currently working on learning and having fun with Web Dev. I also sometimes dabble in Game Dev with Unity. I like to bounce back and forth between the two.
+My name is Russ! I am a front-end developer and photographer from Cleveland, Ohio. I currently focus on front end projects such as regular web development. I also work on photography on the side, shooting nature and landscape. If you are interested in my photography, you can check that out over at my website [snapsbyrp.com](https://snapsbyrp.com) or at [Instagram](www.instagram.com/snapsbyrp) or at [Twitter](www.twitter.com/snapsbyrp86).
 
 ## What's Going on?
-- 🔭 Currently working on [Frontend Mentor projects](https://www.frontendmentor.io/profile/rperry99).
-- 🌱 Learning about UI/UX fundamentals on Skillshare.
-- 📖 Exploring photography
-
-- 🎆 Current Project: TBD
+- 💻 Working on Front End Development skills such as UI/UX design, Figma, and best practices.
+- 📸 Exploring photography
+- 👾 Diving into the world of Open Source projects.
+- 🎮 Losing every single match of Overwatch 2 that I play.
 
 ## Connect with me
 <p align='center'>
