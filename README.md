@@ -3,7 +3,7 @@ My name is Russ! I am a front-end developer and photographer from Cleveland, Ohi
 
 ## What's Going on?
 - 💻 Working on Front End Development skills such as UI/UX design, Figma, and best practices.
-- 📸 Exploring photography
+- 📸 Exploring Data Analysis, SQL, Excel, Python, and BI tools like Tableau. 
 - 👾 Diving into the world of Open Source projects.
 - 🎮 Losing every single match of Overwatch 2 that I play.
 
