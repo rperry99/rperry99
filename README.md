@@ -1,11 +1,10 @@
 ## Hi there 👋
-My name is Russ! I am a front-end developer and photographer from Cleveland, Ohio. I currently focus on front end projects such as regular web development. I also work on photography on the side, shooting nature and landscape. If you are interested in my photography, you can check that out over at my website [snapsbyrp.com](https://snapsbyrp.com) or at [Instagram](www.instagram.com/snapsbyrp) or at [Twitter](www.twitter.com/snapsbyrp86).
+My name is Russ! I am a front-end developer and photographer from Cleveland, Ohio. I currently focus on front end projects such as regular web development. I also work on photography on the side, shooting nature and landscape. If you are interested in my photography, you can check that out over at my [Instagram](www.instagram.com/snapsbyrp) or at [Twitter](www.twitter.com/snapsbyrp86).
 
 ## What's Going on?
 - 💻 Working on Front End Development skills such as UI/UX design, Figma, and best practices.
-- 📸 Exploring Data Analysis, SQL, Excel, Python, and BI tools like Tableau. 
-- 👾 Diving into the world of Open Source projects.
-- 🎮 Losing every single match of Overwatch 2 that I play.
+- 📸 Exploring Cyber Security, and working towards my Security+ certificate.
+- 🎮 Saving the realm in Diablo IV.
 
 ## Connect with me
 <p align='center'>
