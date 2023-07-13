@@ -1,8 +1,12 @@
 ## Hi there 👋
-My name is Russ! I am a front-end developer and photographer from Cleveland, Ohio. I currently focus on front end projects such as regular web development. I also work on photography on the side, shooting nature and landscape. If you are interested in my photography, you can check that out over at my [Instagram](www.instagram.com/snapsbyrp) or at [Twitter](www.twitter.com/snapsbyrp86).
+Hey there, I'm Russ! A self-proclaimed master of pixels and shutterbug extraordinaire hailing from the vibrant city of Cleveland, Ohio. By day, I'm a front-end wizard, conjuring captivating web experiences that'll make your screen come alive. When the sun sets, you'll find me chasing magical moments with my camera, capturing the awe-inspiring beauty of nature and landscapes.
+
+If you're curious to see my photographic exploits, hop on over to my [Instagram](www.instagram.com/snapsbyrp) or [Twitter](www.twitter.com/snapsbyrp86), where I share my visual escapades. But wait, there's more! In the realm of gaming, I wield a controller like a champ and embark on epic virtual quests. From slaying dragons to scoring goals, I'm always up for a digital adventure!
+
+So, whether I'm bending pixels to my will or preserving the wonders of the world through my lens, I'm all about infusing fun and lightheartedness into everything I do. Let's embark on a journey together and explore the thrilling worlds of web development, photography, and video games. Get ready to level up your online presence and witness the magic firsthand!
 
 ## What's Going on?
-- 💻 Working on Front End Development skills such as UI/UX design, Figma, and best practices.
+- 💻 Working on Front End Development skills including Code, UI/UX design, Figma, and best practices.
 - 🔐 Exploring Cyber Security, and working towards my Security+ certificate.
 - 📸 Taking pictures of world around me.
 - 🎮 Saving the realm in Diablo IV.
