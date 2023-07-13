@@ -3,7 +3,8 @@ My name is Russ! I am a front-end developer and photographer from Cleveland, Ohi
 
 ## What's Going on?
 - 💻 Working on Front End Development skills such as UI/UX design, Figma, and best practices.
-- 📸 Exploring Cyber Security, and working towards my Security+ certificate.
+- 🔐 Exploring Cyber Security, and working towards my Security+ certificate.
+- 📸 Taking pictures of world around me.
 - 🎮 Saving the realm in Diablo IV.
 
 ## Connect with me
