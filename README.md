@@ -7,7 +7,9 @@ When I'm not diving into the world of coding, you'll likely find me indulging in
 
 With an unwavering passion for programming and a love for adventure, I'm on the lookout for exciting opportunities in the software development realm. Let's connect and explore the endless possibilities together! 🚀🎮📸🚣‍♂️
 
-[![Twitter / X Logo](Twitter_X.png | width=100)](https://twitter.com/russintech)
+<a href="https://twitter.com/russintech">
+  <img src="Twitter_X.png" width="25"/>
+</a>
 
 ## What's Going on?
 - 💻 Building captivating Front End experiences with Code, UI/UX design, Figma, and best practices.
