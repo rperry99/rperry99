@@ -36,7 +36,7 @@ With an unwavering passion for programming and a love for adventure, I'm on the 
 
 ## Check out my stats
 <p>Please keep in mind these are just my most used languages within my Repos on GitHub and do not indicate my skill in the language.</p>
-<!-- <p align='center'><img src='https://komarev.com/ghpvc/?username=rperry99' /></p> -->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rperry99&hide=shaderlab,hlsl)
 
 <!--
