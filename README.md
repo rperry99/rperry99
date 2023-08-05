@@ -1,3 +1,5 @@
+![](Social_Banner.png)
+
 ## Hi there 👋
 Hey there! I'm Russ, a software development enthusiast with a keen eye for JavaScript and a flair for C# and Python. My heart beats for crafting exceptional code and bringing ideas to life through the power of technology.
 
