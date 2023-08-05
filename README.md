@@ -17,7 +17,7 @@ With an unwavering passion for programming and a love for adventure, I'm on the 
   <img src="Images/Social_Icons/Hashnode.png" width="25"/>
 </a>
 <a href="https://github.com/rperry99">
-  <img src="Images/Social_Icons/Github.png" width="25"/>
+  <img src="Images/Social_Icons/Github2.png" width="25"/>
 </a>
 
 ## What's Going on?
