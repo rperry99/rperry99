@@ -34,6 +34,10 @@ With an unwavering passion for programming and a love for adventure, I'm on the 
 </p>
 <!-- If you are interested in adding this to this your profile, check out this repo: https://github.com/novatorem/novatorem -->
 
+## My Streaks
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rperry99&background=272727&stroke=439775&fire=fef9ef&hide_border=true&ring=439775&currStreakNum=439775&sideNums=439775&currStreakLabel=439775&sideLabels=439775&dates=fef9ef$excludeDaysLabel=439775)](https://git.io/streak-stats)
+
 <!--
 **rperry99/rperry99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
