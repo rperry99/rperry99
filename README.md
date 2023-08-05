@@ -10,6 +10,12 @@ With an unwavering passion for programming and a love for adventure, I'm on the 
 <a href="https://twitter.com/russintech">
   <img src="Twitter_X.png" width="25"/>
 </a>
+<a href="https://www.linkedin.com/in/russ-perry-22b638a8/">
+  <img src="LinkedIn.png" width="25"/>
+</a>
+<a href="https://hashnode.com/@RussInTech">
+  <img src="Hashnode.png" width="25"/>
+</a>
 
 ## What's Going on?
 - 💻 Building captivating Front End experiences with Code, UI/UX design, Figma, and best practices.
