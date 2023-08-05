@@ -16,6 +16,9 @@ With an unwavering passion for programming and a love for adventure, I'm on the 
 <a href="https://hashnode.com/@RussInTech">
   <img src="Images/Social_Icons/Hashnode.png" width="25"/>
 </a>
+<a href="https://github.com/rperry99">
+  <img src="Images/Social_Icons/Github.png" width="25"/>
+</a>
 
 ## What's Going on?
 - 💻 Building captivating Front End experiences with Code, UI/UX design, Figma, and best practices.
