@@ -34,11 +34,6 @@ With an unwavering passion for programming and a love for adventure, I'm on the 
 </p>
 <!-- If you are interested in adding this to this your profile, check out this repo: https://github.com/novatorem/novatorem -->
 
-## Check out my stats
-<p>Please keep in mind these are just my most used languages within my Repos on GitHub and do not indicate my skill in the language.</p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rperry99&hide=shaderlab,hlsl)
-
 <!--
 **rperry99/rperry99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
