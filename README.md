@@ -6,10 +6,10 @@ When I'm not diving into the world of coding, you'll likely find me indulging in
 With an unwavering passion for programming and a love for adventure, I'm on the lookout for exciting opportunities in the software development realm. Let's connect and explore the endless possibilities together! 🚀🎮📸🚣‍♂️
 
 ## What's Going on?
-💻 Building captivating Front End experiences with Code, UI/UX design, Figma, and best practices.
-🔐 Exploring Python and delving into game development with C#.
-📸 Capturing the world's beauty on land and from my kayak through photography.
-🎮 Currently immersed in Diablo IV, saving Sanctuary and conquering challenges!
+- 💻 Building captivating Front End experiences with Code, UI/UX design, Figma, and best practices.
+- 🔐 Exploring Python and delving into game development with C#.
+- 📸 Capturing the world's beauty on land and from my kayak through photography.
+- 🎮 Currently immersed in Diablo IV, saving Sanctuary and conquering challenges!
 
 ## Connect with me
 <p align='center'>
