@@ -1,4 +1,4 @@
-![](Social_Banner.png)
+![](Images/Social_Banner.png)
 
 ## Hi there 👋
 Hey there! I'm Russ, a software development enthusiast with a keen eye for JavaScript and a flair for C# and Python. My heart beats for crafting exceptional code and bringing ideas to life through the power of technology.
@@ -8,13 +8,13 @@ When I'm not diving into the world of coding, you'll likely find me indulging in
 With an unwavering passion for programming and a love for adventure, I'm on the lookout for exciting opportunities in the software development realm. Let's connect and explore the endless possibilities together! 🚀🎮📸🚣‍♂️
 
 <a href="https://twitter.com/russintech">
-  <img src="Twitter_X.png" width="25"/>
+  <img src="Images/Social_Icons/Twitter_X.png" width="25"/>
 </a>
 <a href="https://www.linkedin.com/in/russ-perry-22b638a8/">
-  <img src="LinkedIn.png" width="25"/>
+  <img src="Images/Social_Icons/LinkedIn.png" width="25"/>
 </a>
 <a href="https://hashnode.com/@RussInTech">
-  <img src="Hashnode.png" width="25"/>
+  <img src="Images/Social_Icons/Hashnode.png" width="25"/>
 </a>
 
 ## What's Going on?
