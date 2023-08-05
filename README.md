@@ -13,16 +13,6 @@ With an unwavering passion for programming and a love for adventure, I'm on the 
 - 📸 Capturing the world's beauty on land and from my kayak through photography.
 - 🎮 Currently immersed in Diablo IV, saving Sanctuary and conquering challenges!
 
-## Connect with me
-<p align='center'>
-  <a href="http://twitter.com/russintech">
-    <img src="https://img.shields.io/static/v1?label=Twitter&message=RussInTech&color=blue&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/russ-perry-22b638a8/">
-    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Russ%20Perry&color=0072b1&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 ## What I'm listening to
 <p align="center">
   <a href="https://open.spotify.com/user/1227273073">
