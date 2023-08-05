@@ -1,15 +1,17 @@
 ## Hi there 👋
-Hey there, I'm Russ! A self-proclaimed master of pixels and shutterbug extraordinaire hailing from the vibrant city of Cleveland, Ohio. By day, I'm a front-end wizard, conjuring captivating web experiences that'll make your screen come alive. When the sun sets, you'll find me chasing magical moments with my camera, capturing the awe-inspiring beauty of nature and landscapes.
+Hey there! I'm Russ, and I'm on a thrilling journey to pursue a career in software development. My passion for coding began with JavaScript, where I discovered the art of crafting interactive and dynamic web experiences. As I delved deeper into the world of programming, I also gained valuable experience in languages like C# and Python, further expanding my toolkit for solving real-world challenges.
 
-If you're curious to see my photographic exploits, hop on over to my [Instagram](www.instagram.com/snapsbyrp) or [Twitter](www.twitter.com/snapsbyrp86), where I share my visual escapades. But wait, there's more! In the realm of gaming, I wield a controller like a champ and embark on epic virtual quests. From slaying dragons to scoring goals, I'm always up for a digital adventure!
+I find joy in the elegant fusion of creativity and problem-solving that software development offers. The ability to shape ideas into functional applications is nothing short of magic to me. I'm always on the lookout for exciting projects that allow me to push the boundaries of my skills while making a meaningful impact.
 
-So, whether I'm bending pixels to my will or preserving the wonders of the world through my lens, I'm all about infusing fun and lightheartedness into everything I do. Let's embark on a journey together and explore the thrilling worlds of web development, photography, and video games. Get ready to level up your online presence and witness the magic firsthand!
+Beyond the realm of code, you'll often find me immersed in virtual worlds, wielding a controller for my favorite video games. Gaming is not just a hobby; it has taught me valuable teamwork, adaptability, and strategic thinking. When I'm not in front of a screen, you can catch me paddling away on serene waters with my kayak. There's something incredibly liberating about exploring nature's beauty and challenging myself in the peaceful embrace of the water.
+
+I believe in maintaining a healthy balance between work and play, constantly seeking opportunities to learn, grow, and have fun along the way. If you're interested in collaborating on projects, chatting about programming, or even discussing the latest game releases, feel free to reach out. Let's connect and embark on this exciting software development adventure together!
 
 ## What's Going on?
 - 💻 Working on Front End Development skills including Code, UI/UX design, Figma, and best practices.
-- 🔐 Exploring Cyber Security, and working towards my Security+ certificate.
-- 📸 Taking pictures of world around me.
-- 🎮 Saving the realm in Diablo IV.
+- 🔐 Exploring other programming languages such as Python, and dabbling in some game development with C#.
+- 📸 Taking pictures of world around me, both on land and from my kayak.
+- 🎮 Saving Sanctuary in Diablo IV.
 
 ## Connect with me
 <p align='center'>
