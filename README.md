@@ -22,7 +22,7 @@ With an unwavering passion for programming and a love for adventure, I'm on the 
 
 ## What's Going on?
 - 💻 Building captivating Front End experiences with Code, UI/UX design, Figma, and best practices.
-- 🔐 Exploring Python and delving into game development with C#.
+- 🔐 Exploring Python and doing a #100DaysOfPython Challenge. [Check out the repo](https://github.com/rperry99/100DaysOfPython)!
 - 📸 Capturing the world's beauty on land and from my kayak through photography.
 - 🎮 Currently immersed in Diablo IV, saving Sanctuary and conquering challenges!
 
