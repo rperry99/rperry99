@@ -24,7 +24,7 @@ With an unwavering passion for programming and a love for adventure, I'm on the 
 - 💻 Building captivating Front End experiences with Code, UI/UX design, Figma, and best practices.
 - 🚀 Exploring React to elevate my web development proficiency!
 - 📸 Capturing the world's beauty on land and from my kayak through photography.
-- 🎮 Currently immersed in Diablo IV, saving Sanctuary and conquering challenges!
+- 🎮 Reliving Japan's history in Samurai Warriors 5, and trying to do some pest control in Baldur's Gate 3.
 
 ## Languages and Tools
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
