@@ -3,7 +3,7 @@
 ## 🎮 Russ Perry
 Hey there! I'm Russ, a software development enthusiast with a keen eye for JavaScript and a flair for C# and Python. My heart beats for crafting exceptional code and bringing ideas to life through the power of technology.
 
-When I'm not diving into the world of coding, you'll likely find me indulging in a few rounds of video games, capturing life's moments through the lens of my camera, or navigating tranquil waters with my trusty kayak. These hobbies fuel my creativity, sharpen my focus, and remind me that life is a beautiful balance of work and play.
+When I'm not diving into the world of coding, you'll likely find me spending some time with my collection of video games, capturing life's moments through the lens of my camera, or navigating tranquil waters with my trusty kayak. These hobbies fuel my creativity, sharpen my focus, and remind me that life is a beautiful balance of work and play.
 
 With an unwavering passion for programming and a love for adventure, I'm on the lookout for exciting opportunities in the software development realm. Let's connect and explore the endless possibilities together! 🚀🎮📸🚣‍♂️
 
