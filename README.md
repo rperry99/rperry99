@@ -51,6 +51,14 @@ With an unwavering passion for programming and a love for adventure, I'm on the 
     <img src="https://novatorem-pi-six.vercel.app/api/spotify"/>
   </a>
 </p>
+
+## I got some badges!
+<p align="center">
+  <a href="https://holopin.io/@rperry99">
+    <img src="https://holopin.me/rperry99"/>
+  </a>
+</p>
+
 <!-- If you are interested in adding this to this your profile, check out this repo: https://github.com/novatorem/novatorem -->
 
 <!--
