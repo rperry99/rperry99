@@ -22,7 +22,7 @@ With an unwavering passion for programming and a love for adventure, I'm on the 
 
 ## What's Going on?
 - 💻 Building captivating Front End experiences with Code, UI/UX design, Figma, and best practices.
-- 🚀 Exploring React to elevate my web development proficiency! Check out [this repo](https://github.com/rperry99/FreeCodeCamp-React) to see my progress!
+- 🚀 Exploring React to elevate my web development proficiency! Check out [this repo](https://github.com/rperry99/FreeCodeCamp-React) to see what I'm working on!
 - 📸 Capturing the world's beauty on land and from my kayak through photography.
 - 🎮 Reliving Japan's history in Samurai Warriors 5, and trying to do some pest control in Baldur's Gate 3.
 
