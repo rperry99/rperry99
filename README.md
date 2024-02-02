@@ -3,7 +3,7 @@
 ## 🎮 Russ Perry
 Hello! I'm Russ, a software developer well-versed in JavaScript, C#, and Python. I'm dedicated to crafting top-notch code and enjoy translating creative ideas into reality through technology.
 
-Beyond coding, I indulge in video games, photography, kayaking, and 3D printing. I can't be staring at code 24/7 right?.
+Beyond coding, I indulge in video games, photography, kayaking, and 3D printing. I can't be staring at code 24/7 right?
 
 In my projects, I specialize in JavaScript and have been delving into game development using Unity or Godot. I'm also exploring Python to broaden my skill set.
 
