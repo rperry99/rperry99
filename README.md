@@ -1,7 +1,7 @@
 ![](Images/Social_Banner.png)
 
 ## 🎮 Russ Perry
-Hello! I'm Russ, a software developer, gamer, and photographer. I am currently studying to transition over to cyber security, but I still have a passion for coding, and all things tech. 
+Hello! I'm Russ, a front end developer, gamer, and photographer. I am currently studying to transition over to cyber security, but I still have a passion for coding, and all things tech. 
 
 <a href="https://twitter.com/russintech">
   <img src="Images/Social_Icons/Twitter_X.png" width="30px" />
