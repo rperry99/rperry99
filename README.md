@@ -15,7 +15,7 @@ Hello! I'm Russ, a front end developer, gamer, and photographer. I am currently 
 
 ## What am I doing?
 - Working through a cirriculum to take the [SY0-601 Security+ Certificate](https://www.comptia.org/certifications/security).
-- Revamping [my portfolio website](https://www.russintech.com).
+- Revamping [my portfolio website](www.russintech.com).
 - Game development using Godot and GDScript.
 - How to paint minis for tabletop games.
 - How to take my pictures to the next level.
