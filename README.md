@@ -13,8 +13,9 @@ Hello! I'm Russ, a front end developer, gamer, and photographer. I am currently 
   <img src="Images/Social_Icons/Github2.png" width="30px"/>
 </a>
 
-## What am I learning?
+## What am I doing?
 - Working through a cirriculum to take the [SY0-601 Security+ Certificate](https://www.comptia.org/certifications/security).
+- Revamping [my portfolio website](https://www.russintech.com).
 - Game development using Godot and GDScript.
 - How to paint minis for tabletop games.
 - How to take my pictures to the next level.
