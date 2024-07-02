@@ -15,14 +15,15 @@ Hello! I'm Russ, a game developer and front-end developer.
 
 ## What am I doing?
 - Game Developement in Godot 4.
- - Currently working on the basics of Godot using a video series on making a Vampire Survivors clone. Check out my progress [here](https://github.com/rperry99/Vampire_Survivors_Clone)
+  - Currently working on the basics of Godot using a video series on making a Vampire Survivors clone. Check out my progress [here](https://github.com/rperry99/Vampire_Survivors_Clone)
 - Diving into pixel art, taking on some challenges.
- - Going through [Saultoon's 2020 SeptemBIT Challenge](https://www.youtube.com/watch?v=11mBKkltki8) making one pixel art piece a day.
+  - Going through [Saultoon's 2020 SeptemBIT Challenge](https://www.youtube.com/watch?v=11mBKkltki8) making one pixel art piece a day.
 - Learning how to draw using [Drawabox](https://drawabox.com)
 
 ## Tool Stack
 
 ### Front-End Tools
+
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
@@ -32,19 +33,23 @@ Hello! I'm Russ, a game developer and front-end developer.
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
 ### Game Dev Tools
+
 <img align="left" alt="Godot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
 
 ### General Tech Tools
+
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
 
 ### Design Tools
+
 <img align="left" alt="Aseprite" width="30px" style="padding-right:10px;" src="Images/Tool_Icons/aseprite.png"/>
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <img align="left" alt="Affinity Photo" width="30px" style="padding-right:10px;" src="Images/Tool_Icons/affinity_photo.png""/>
 <img align="left" alt="Affinity Designer" width="30px" style="padding-right:10px;" src="Images/Tool_Icons/affinity_designer.png""/>
 
 ### Project Management
+
 <img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="Images/Tool_Icons/notion.png""/>
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"/>
 <img align="left" alt="Confluence" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg"/>
@@ -65,6 +70,7 @@ Hello! I'm Russ, a game developer and front-end developer.
   <img src="https://sahsponyexpress.com/wp-content/uploads/2022/10/overwatch-2-button-fin-1656022954568-900x900.jpg" height=200>
   <img src="https://image.api.playstation.com/vulcan/ap/rnd/202312/0802/b6fcfd97546f4b8ccb8f87f84a01d77a473a16664692ddde.png" height=200>
   <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813230/capsule_616x353.jpg?t=1716414146" height=200>
+  <img src="https://image.api.playstation.com/vulcan/ap/rnd/202401/2211/40e7cfd126a11fe5118310ebce6d9b3a23e7cabaca717217.png" height=200>
 </p>
 
 <!-- ## What am I currently reading?
