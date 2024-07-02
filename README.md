@@ -32,14 +32,20 @@ Hello! I'm Russ, a game developer and front-end developer.
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
+</br>
+
 ### Game Dev Tools
 
 <img align="left" alt="Godot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
+
+</br>
 
 ### General Tech Tools
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
+
+</br>
 
 ### Design Tools
 
@@ -48,11 +54,14 @@ Hello! I'm Russ, a game developer and front-end developer.
 <img align="left" alt="Affinity Photo" width="30px" style="padding-right:10px;" src="Images/Tool_Icons/affinity_photo.png""/>
 <img align="left" alt="Affinity Designer" width="30px" style="padding-right:10px;" src="Images/Tool_Icons/affinity_designer.png""/>
 
+</br>
+
 ### Project Management
 
-<img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="Images/Tool_Icons/notion.png""/>
+<img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="Images/Tool_Icons/notion.png"/>
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"/>
 <img align="left" alt="Confluence" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg"/>
+
 
 </br>
 </br>
