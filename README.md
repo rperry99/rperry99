@@ -1,7 +1,7 @@
 ![](Images/GitHub-Banner_GameDev.png)
 
 ## 🎮 Russ Perry
-Hello! I'm Russ, a game developer and front-end developer.
+Hello! I'm Russ, front-end developer and hobbyist game developer.
 
 <a href="https://twitter.com/russintech">
   <img src="Images/Social_Icons/Twitter_X.png" width="30px" />
