@@ -76,8 +76,7 @@ Hello! I'm Russ, front-end developer and hobbyist game developer.
 ## What games am I playing?
 <p align="center">
   <img src="https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000068673/94e7e930658b4970c3e98eeb8f8fff34de4b43067874c1968a607bc2c78bfd9d" height=200>
-  <img src="https://sahsponyexpress.com/wp-content/uploads/2022/10/overwatch-2-button-fin-1656022954568-900x900.jpg" height=200>
-  <img src="https://image.api.playstation.com/vulcan/ap/rnd/202312/0802/b6fcfd97546f4b8ccb8f87f84a01d77a473a16664692ddde.png" height=200>
+  <img src="https://www-static.warframe.com/images/longlanding/warframe-metacard.png" height=200>
   <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813230/capsule_616x353.jpg?t=1716414146" height=200>
   <img src="https://image.api.playstation.com/vulcan/ap/rnd/202401/2211/40e7cfd126a11fe5118310ebce6d9b3a23e7cabaca717217.png" height=200>
 </p>
