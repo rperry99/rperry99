@@ -46,20 +46,21 @@ Hello! I'm Russ, front-end developer and hobbyist game developer.
 
 ### Design & Visuals
 
-<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="Images/Tool_Icons/affinity_photo.png"/>
-<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="Images/Tool_Icons/affinity_designer.png"/>
-<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="Images/Tool_Icons/aseprite.png"/>
+<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+<img align="left" alt="Affinity Photo" width="30px" style="padding-right:10px;" src="Images/Tool_Icons/affinity_photo.png"/>
+<img align="left" alt="Affinity Designer" width="30px" style="padding-right:10px;" src="Images/Tool_Icons/affinity_designer.png"/>
+<img align="left" alt="Infinite Painter" width="30px" style="padding-right:10px;" src="Images/Tool_Icons/painter_icon.png"/>
+<img align="left" alt="Aseprite" width="30px" style="padding-right:10px;" src="Images/Tool_Icons/aseprite.png"/>
 
 </br>
 </br>
 
 ### General Tech Tools
 
-<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="Images/Tool_Icons/notion.png" width="30px" />
-<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"/>
-<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="Images/Tool_Icons/notion.png" width="30px" />
+<img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"/>
+<img align="left" alt="Confluence" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg"/>
 
 <br/>
 <br/>
