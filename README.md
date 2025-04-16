@@ -85,7 +85,7 @@
 - [Chris Piascik](https://www.instagram.com/chrispiascik/) – vibrant chaos meets illustrative lettering
 - [The Good Chad](https://www.instagram.com/thegoodchad/) – expressive hand lettering with raw character
 - [Will Paterson](https://www.youtube.com/@willpatersondesign) – professional logo design and typography
-- [Jesse Showalter](https://www.youtube.com/@JesseShowalter) – clean UX/UI meets strong brand building
+- [Jesse Showalter](https://www.youtube.com/@designchampions) – clean UX/UI meets strong brand building
 
 <br/>
 <br/>
