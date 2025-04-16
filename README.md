@@ -1,14 +1,10 @@
 ![](Images/GitHub-Banner_GameDev.png)
 
 ## ⚓ Russ Perry
-Hello! I'm Russ, front-end developer and hobbyist game developer.
 
 **Front-End Developer & Web Designer**  
 *Charting the web with code and compass.*
 
-<a href="https://twitter.com/russintech">
-  <img align="left" alt="Twitter/X" width="30px" style="padding-right:10px;" src="Images/Social_Icons/Twitter_X.png"/>
-</a>
 <a href="https://www.linkedin.com/in/russ-perry-22b638a8/">
   <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="Images/Social_Icons/LinkedIn.png"/>
 </a>
@@ -42,7 +38,6 @@ Hello! I'm Russ, front-end developer and hobbyist game developer.
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 
 </br>
-</br>
 
 ### Design & Visuals
 
@@ -52,7 +47,6 @@ Hello! I'm Russ, front-end developer and hobbyist game developer.
 <img align="left" alt="Infinite Painter" width="30px" style="padding-right:10px;" src="Images/Tool_Icons/painter_icon.png"/>
 <img align="left" alt="Aseprite" width="30px" style="padding-right:10px;" src="Images/Tool_Icons/aseprite.png"/>
 
-</br>
 </br>
 
 ### General Tech Tools
@@ -75,7 +69,6 @@ Hello! I'm Russ, front-end developer and hobbyist game developer.
 
 <br/>
 <br/>
-<br/>
 
 ## 📜 What Inspires Me
 - Vintage nautical maps and analog interfaces
@@ -86,13 +79,29 @@ Hello! I'm Russ, front-end developer and hobbyist game developer.
 
 <br/>
 <br/>
+
+## ✏ Designers I Admire
+
+- [Chris Piascik](https://www.instagram.com/chrispiascik/) – vibrant chaos meets illustrative lettering
+- [The Good Chad](https://www.instagram.com/thegoodchad/) – expressive hand lettering with raw character
+- [Will Paterson](https://www.youtube.com/c/WillPatersonDesign) – professional logo design and typography
+- [Jesse Showalter](https://www.youtube.com/c/JesseShowalter) – clean UX/UI meets strong brand building
+
+<br/>
 <br/>
 
 ## 🥃 Just For Fun
 - Most likely to choose a typeface based on its name.
-- Writes CSS like it's goinng in a musesum.
+- Writes CSS like it's going in a museum.
+- Probably organizing something in Notion instead of doing it.
+- Would 100% explore a haunted lighthouse.
+- Listens to metal to relax.
+- Once made a spreadsheet to track horror movies.
+- Probably overthinking this README right now.
 
 <br/>
 <br/>
+
+---
 
 <p align="center"><em>Pixel perfection, on the rocks.</em></p>
