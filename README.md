@@ -1,9 +1,9 @@
 ![](Images/russmakes-github-banner.png)
 
-## ⚓ Russ Perry
+## ⚡ Russ Makes
 
-**Front-End Developer & Web Designer**  
-*Charting the web with code and compass.*
+**Front-End Developer & Designer**  
+*Building clean websites, sharp interfaces, and the occasional side project.*
 
 <a href="https://www.linkedin.com/in/russ-perry-22b638a8/">
   <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="Images/Social_Icons/LinkedIn.png"/>
@@ -17,10 +17,10 @@
 <br/>
 
 ## 🕰 What I'm Working On
-- Refining my personal brand and portfolio (new aesthetic: maritime, mysterious, intentional)
-- Rebuilding my GitHub projects and site to showcase front-end and design-focused work
-- Learning digital illustration & hand lettering
-- Studying UX theory, typography, and accessibility
+- Building and refining [russmakes.com](https://russmakes.com) — my personal site and creative workshop
+- Designing clean, modern portfolio projects
+- Expanding my UX, accessibility, and visual design skills
+- Exploring digital illustration and creative workflows
 
 <br/>
 <br/>
@@ -60,22 +60,22 @@
 <br/>
 <br/>
 
-## 🗺 Current Expeditions 
+## 🛠 Workshop Projects
 | Project Idea | Description |
 |--------|----------|
 | `Cryptid Log` | A spooky-themed web app for tracking strange sightings (basically a note taking app) |
-| `Nautical Portfolio` | Maritime redesign of my portfolio website | 
+| `russmakes.com Rebuild` | Modern rebuild of my personal portfolio and workshop site |
 | `Birthday Tracker` | A web app where you can enter birthdays and it will tell you which birthdays are coming up |
 
 <br/>
 <br/>
 
 ## 📜 What Inspires Me
-- Vintage nautical maps and analog interfaces
 - Thoughtful UX that feels invisible
-- Hand-drawn typography and custom typefaces
-- Design systems that don’t feel soulless
-- Microinteractions that make interfaces feel alive
+- Interfaces that feel handcrafted, not templated
+- Custom typefaces and expressive typography
+- Design systems with soul
+- Microinteractions that make products feel alive
 
 <br/>
 <br/>
