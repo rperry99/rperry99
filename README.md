@@ -1,4 +1,4 @@
-![](Images/GitHub-Banner_GameDev.png)
+![](Images/russmakes-github-banner.png)
 
 ## ⚓ Russ Perry
 
