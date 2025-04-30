@@ -6,10 +6,16 @@
 *Building clean websites, sharp interfaces, and the occasional side project.*
 
 <a href="https://www.linkedin.com/in/russ-perry-22b638a8/">
-  <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="Images/Social_Icons/LinkedIn.png"/>
+  <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="Images/Social_Icons/linkedin-logo.png"/>
 </a>
 <a href="https://github.com/rperry99">
-  <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="Images/Social_Icons/Github2.png"/>
+  <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="Images/Social_Icons/github-logo.png"/>
+</a>
+<a href="https://bsky.app/profile/russmakes.bsky.social">
+  <img align="left" alt="Blue Sky" width="30px" style="padding-right:10px;" src="Images/Social_Icons/bluesky-logo.png"/>
+</a>
+<a href="https://x.com/russmakes">
+  <img align="left" alt="X/Twitter" width="30px" style="padding-right:10px;" src="Images/Social_Icons/twitter-logo.png"/>
 </a>
 
 <br/>
