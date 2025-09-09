@@ -28,10 +28,16 @@
 - Expanding my UX, accessibility, and visual design skills
 - Exploring digital illustration
 
+| Project Idea | Description |
+|--------|----------|
+| `russperry.dev` | Portfolio website for my current work. |
+| `Cryptid Log` | A spooky-themed web app for tracking strange sightings (basically a note taking app) |
+| `Birthday Tracker` | A web app where you can enter birthdays and it will tell you which birthdays are coming up. |
+
 <br/>
 <br/>
 
-## - DIGITAL TOOLS OF THE TRADE
+## - DIGITAL TOOLS OF THE TRADE -
 
 ### Front-End
 
@@ -50,8 +56,6 @@
 <img align="left" alt="Affinity Designer" width="30px" style="padding-right:10px;" src="Images/Tool_Icons/affinity_designer.png"/>
 <img align="left" alt="Adobe Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"/>
 <img align="left" alt="Adobe Lightroom" width="30px" style="padding-right:10px;" src="Images/Tool_Icons/lightroom.png"/>
-<img align="left" alt="Infinite Painter" width="30px" style="padding-right:10px;" src="Images/Tool_Icons/painter_icon.png"/>
-<img align="left" alt="Aseprite" width="30px" style="padding-right:10px;" src="Images/Tool_Icons/aseprite.png"/>
 
 </br>
 
@@ -59,31 +63,18 @@
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="Images/Tool_Icons/notion.png" width="30px" />
-<img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"/>
-<img align="left" alt="Confluence" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg"/>
 
 <br/>
 <br/>
 
-## My EDC
+## - MY EDC -
 
 - 📸 Canon EOS 2000D
 
 <br/>
 <br/>
-<br/>
 
-## Workshop Projects
-| Project Idea | Description |
-|--------|----------|
-| `russperry.dev` | Portfolio website for my current work. |
-| `Cryptid Log` | A spooky-themed web app for tracking strange sightings (basically a note taking app) |
-| `Birthday Tracker` | A web app where you can enter birthdays and it will tell you which birthdays are coming up. |
-
-<br/>
-<br/>
-
-## What Inspires Me
+## - WHAT INSPIRES ME -
 - Thoughtful UX that feels invisible
 - Interfaces that feel handcrafted, not templated
 - Custom typefaces and expressive typography
@@ -93,7 +84,7 @@
 <br/>
 <br/>
 
-## Creative North Stars
+## - CREATIVE NORTH STARS -
 
 - [Peter McKinnon](https://www.instagram.com/petermckinnon) - photographer with an inspiring aesthetic
 - [Chris Piascik](https://www.instagram.com/chrispiascik/) – vibrant chaos meets illustrative lettering
@@ -104,7 +95,7 @@
 <br/>
 <br/>
 
-## 🥃 Just For Fun
+## - JUST FOR FUN -
 - Most likely to explore a haunted lighthouse with a camera.
 - Listens to metal to relax -- yes, really.
 - Would absolutely build a spreadsheet to track cryptid sightings.
