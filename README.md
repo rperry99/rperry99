@@ -1,8 +1,8 @@
-![](Images/russmakes-github-banner.png)
+![](Images/github-banner-2025.png)
 
-## ⚡ Russ Makes
+## Russ Perry
 
-**Front-End Developer & Designer**  
+**Front-End Developer | Designer | Photographer**  
 *Building clean websites, sharp interfaces, and the occasional side project.*
 
 <a href="https://www.linkedin.com/in/russ-perry-22b638a8/">
@@ -11,9 +11,9 @@
 <a href="https://github.com/rperry99">
   <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="Images/Social_Icons/github-logo.png"/>
 </a>
-<a href="https://bsky.app/profile/russmakes.bsky.social">
+<!-- <a href="https://bsky.app/profile/russmakes.bsky.social">
   <img align="left" alt="Blue Sky" width="30px" style="padding-right:10px;" src="Images/Social_Icons/bluesky-logo.png"/>
-</a>
+</a> -->
 <a href="https://x.com/russmakes">
   <img align="left" alt="X/Twitter" width="30px" style="padding-right:10px;" src="Images/Social_Icons/twitter-logo.png"/>
 </a>
@@ -22,16 +22,16 @@
 <br/>
 <br/>
 
-## 🕰 What I'm Working On
-- Building and refining [russmakes.com](https://russmakes.com) — my personal site and creative workshop
+## What I'm Working On
+- Building and refining [russperry.dev](https://russperry.dev) -- my portfolio / personal website
 - Designing clean, modern portfolio projects
 - Expanding my UX, accessibility, and visual design skills
-- Exploring digital illustration and creative workflows
+- Exploring digital illustration
 
 <br/>
 <br/>
 
-## 🛠 Tools Of The Trade
+## Tools Of The Trade
 
 ### Front-End
 
@@ -66,17 +66,17 @@
 <br/>
 <br/>
 
-## 🛠 Workshop Projects
+## Workshop Projects
 | Project Idea | Description |
 |--------|----------|
+| `russperry.dev` | Portfolio website for my current work. |
 | `Cryptid Log` | A spooky-themed web app for tracking strange sightings (basically a note taking app) |
-| `russmakes.com Rebuild` | Modern rebuild of my personal portfolio and workshop site |
-| `Birthday Tracker` | A web app where you can enter birthdays and it will tell you which birthdays are coming up |
+| `Birthday Tracker` | A web app where you can enter birthdays and it will tell you which birthdays are coming up. |
 
 <br/>
 <br/>
 
-## 📜 What Inspires Me
+## What Inspires Me
 - Thoughtful UX that feels invisible
 - Interfaces that feel handcrafted, not templated
 - Custom typefaces and expressive typography
@@ -86,8 +86,9 @@
 <br/>
 <br/>
 
-## ✏ Designers I Admire
+## Role Models
 
+- [Peter McKinnon](https://www.instagram.com/petermckinnon) - photographer with an inspiring aesthetic
 - [Chris Piascik](https://www.instagram.com/chrispiascik/) – vibrant chaos meets illustrative lettering
 - [The Good Chad](https://www.instagram.com/thegoodchad/) – expressive hand lettering with raw character
 - [Will Paterson](https://www.youtube.com/@willpatersondesign) – professional logo design and typography
@@ -98,8 +99,7 @@
 
 ## 🥃 Just For Fun
 - Most likely to choose a typeface based on its name.
-- Writes CSS like it's going in a museum.
-- Probably organizing something in Notion instead of doing it.
+- Probably organizing something in Notion instead of actually doing it.
 - Would 100% explore a haunted lighthouse.
 - Listens to metal to relax.
 - Once made a spreadsheet to track horror movies.
