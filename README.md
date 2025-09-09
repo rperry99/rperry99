@@ -5,39 +5,30 @@
 **Front-End Developer | Designer | Photographer**  
 *I build with pixels and light. Sometimes in code. Sometimes through a lens.*
 
-<a href="https://www.linkedin.com/in/russ-perry-22b638a8/">
-  <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="Images/Social_Icons/linkedin-logo.png"/>
-</a>
-<a href="https://github.com/rperry99">
-  <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="Images/Social_Icons/github-logo.png"/>
-</a>
-<!-- <a href="https://bsky.app/profile/russmakes.bsky.social">
-  <img align="left" alt="Blue Sky" width="30px" style="padding-right:10px;" src="Images/Social_Icons/bluesky-logo.png"/>
-</a> -->
-<!-- <a href="https://x.com/russmakes">
-  <img align="left" alt="X/Twitter" width="30px" style="padding-right:10px;" src="Images/Social_Icons/twitter-logo.png"/>
-</a> -->
+[LinkedIn](https://www.linkedin.com/in/russ-perry-22b638a8/) &nbsp; &nbsp; &nbsp; &nbsp;
+[GitHub](https://github.com/rperry99)
 
-<br/>
 <br/>
 <br/>
 
 ## - IN THE WORKSHOP -
-- Building and refining [russperry.dev](https://russperry.dev) -- my portfolio / personal website
-- Designing clean, modern portfolio projects
-- Expanding my UX, accessibility, and visual design skills
-- Exploring digital illustration
+*Where my pixels, sketches, and half-baked prototypes take shape.*
+- Refining [russperry.dev](https://russperry.dev) -- my digital flagship
+- Designing portfolio projects with a sharp, modern edge
+- Leveling up UX, accessibility, and visual design
+- Experimenting with illustration and new visual styles
 
 | Project Idea | Description |
 |--------|----------|
 | `russperry.dev` | Portfolio website for my current work. |
-| `Cryptid Log` | A spooky-themed web app for tracking strange sightings (basically a note taking app) |
-| `Birthday Tracker` | A web app where you can enter birthdays and it will tell you which birthdays are coming up. |
+| `Cryptid Log` | A spooky-themed web app for tracking strange sightings -- think "field notes for the uncanny." |
+| `Birthday Tracker` | Simple, useful, and just a little obsessive. Never forget a date again. |
 
 <br/>
 <br/>
 
 ## - DIGITAL TOOLS OF THE TRADE -
+*The digital kit I reach for when I'm building, designing, or editing.*
 
 ### Front-End
 
@@ -69,28 +60,45 @@
 
 ## - MY EDC -
 
-- 📸 Canon EOS 2000D
+- *Canon EOS 2000D* – my everyday shooter, reliable and ready.
+- *Tintris Field Notes Cover* – keeps my pocket notebook, sketchbook, and pens wrangled.
+- *Field Notes Pocket Notebook* – where bad doodles and half-decent ideas fight for space.
+- *Pilot G2 0.38 (Black)* – sharp enough for notes, cheap enough to lose without tears.
+- *Samsung Galaxy Tab S9 FE+* – digital sketchbook, media hub, ADHD sandbox.
+- *Samsung Galaxy S24 Ultra* – backup camera, daily driver, emergency Google machine.
+- *HEAVYS Over-Ear Headphones* – music, focus, and instant “hell blocker” mode.
+- *Leuchtturm1917 Notebook* – the serious journal, for thoughts that don’t fit in scraps.
+- *Opinel No. 07 Stainless Steel* – slim, simple pocket knife; a classic that just works.
+- *BAGSMART DSLR Camera Backpack* – my mobile workshop, hauls all this gear and then some.
 
 <br/>
 <br/>
 
 ## - WHAT INSPIRES ME -
-- Thoughtful UX that feels invisible
-- Interfaces that feel handcrafted, not templated
-- Custom typefaces and expressive typography
-- Design systems with soul
-- Microinteractions that make products feel alive
+- Thoughtful UX that feels invisible.
+- Interfaces that feel handcrafted, not templated.
+- Custom typefaces and expressive typography.
+- Design systems with just enough soul to feel human.
+- Microinteractions that spark a little magic.
 
 <br/>
 <br/>
 
 ## - CREATIVE NORTH STARS -
 
-- [Peter McKinnon](https://www.instagram.com/petermckinnon) - photographer with an inspiring aesthetic
-- [Chris Piascik](https://www.instagram.com/chrispiascik/) – vibrant chaos meets illustrative lettering
-- [The Good Chad](https://www.instagram.com/thegoodchad/) – expressive hand lettering with raw character
-- [Will Paterson](https://www.youtube.com/@willpatersondesign) – professional logo design and typography
-- [Jesse Showalter](https://www.youtube.com/@designchampions) – clean UX/UI meets strong brand building
+- [Peter McKinnon](https://www.instagram.com/petermckinnon) - cinematic photography that blends grit, clarity, and story; makes the everyday feel epic.
+- [Chris Piascik](https://www.instagram.com/chrispiascik/) – vibrant chaos meets sharp lettering, a reminder to not over-polish.
+- [The Good Chad](https://www.instagram.com/thegoodchad/) – bold hand lettering with raw personality; design that feels lived-in, not polished to death.
+- [Will Paterson](https://www.youtube.com/@willpatersondesign) – thoughtful logo and brand design, where precision meets craft.
+- [Jesse Showalter](https://www.youtube.com/@designchampions) – modern UI/UX thinking grounded in real-world brand-building.
+
+<br/>
+<br/>
+
+## - CURRENTLY LEARNING -
+- Exploring new ways to sketch beyond the notebook.
+- Leveling up how I capture gear and design work.
+- Making interfaces that work for everyone.
 
 <br/>
 <br/>
