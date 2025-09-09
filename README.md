@@ -14,9 +14,9 @@
 <!-- <a href="https://bsky.app/profile/russmakes.bsky.social">
   <img align="left" alt="Blue Sky" width="30px" style="padding-right:10px;" src="Images/Social_Icons/bluesky-logo.png"/>
 </a> -->
-<a href="https://x.com/russmakes">
+<!-- <a href="https://x.com/russmakes">
   <img align="left" alt="X/Twitter" width="30px" style="padding-right:10px;" src="Images/Social_Icons/twitter-logo.png"/>
-</a>
+</a> -->
 
 <br/>
 <br/>
