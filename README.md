@@ -60,16 +60,16 @@
 
 ## - MY EDC -
 
-- *Canon EOS 2000D* – my everyday shooter, reliable and ready.
-- *Tintris Field Notes Cover* – keeps my pocket notebook, sketchbook, and pens wrangled.
-- *Field Notes Pocket Notebook* – where bad doodles and half-decent ideas fight for space.
-- *Pilot G2 0.38 (Black)* – sharp enough for notes, cheap enough to lose without tears.
-- *Samsung Galaxy Tab S9 FE+* – digital sketchbook, media hub, ADHD sandbox.
-- *Samsung Galaxy S24 Ultra* – backup camera, daily driver, emergency Google machine.
-- *HEAVYS Over-Ear Headphones* – music, focus, and instant “hell blocker” mode.
-- *Leuchtturm1917 Notebook* – the serious journal, for thoughts that don’t fit in scraps.
-- *Opinel No. 07 Stainless Steel* – slim, simple pocket knife; a classic that just works.
-- *BAGSMART DSLR Camera Backpack* – my mobile workshop, hauls all this gear and then some.
+- Canon EOS 2000D
+- Tintris Field Notes Cover
+- Field Notes Pocket Notebook
+- Pilot G2 0.38 (Black)
+- Samsung Galaxy Tab S9 FE+
+- Samsung Galaxy S24 Ultra
+- HEAVYS Over-Ear Headphones
+- Leuchtturm1917 Notebook
+- Opinel No. 08 Stainless Steel
+- BAGSMART DSLR Camera Backpack
 
 <br/>
 <br/>
